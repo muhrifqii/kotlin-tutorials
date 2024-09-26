@@ -7,3 +7,5 @@ pluginManagement {
 }
 
 rootProject.name = "Kotlin-Tutorials"
+
+include("collections")
